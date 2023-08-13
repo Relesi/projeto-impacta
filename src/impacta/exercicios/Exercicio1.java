@@ -1,7 +1,6 @@
 package impacta.exercicios;
 
 /*
-
         1-Escreva um programa Java para imprimir o resultado das seguintes operações.
         a. -5 + 8 * 6
         b. (55+9) % 9

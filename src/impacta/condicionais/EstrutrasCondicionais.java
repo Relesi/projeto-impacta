@@ -7,7 +7,6 @@ public class EstrutrasCondicionais {
         double primeiraFaixa = 9.79 / 100;
         double segundaFaixa = 37.35 / 100;
         double terceiraFaixa = 49.50 / 100;
-
         double imposto;
 
         if (salarioAnual == 34700) {
