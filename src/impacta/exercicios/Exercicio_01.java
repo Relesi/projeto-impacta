@@ -15,7 +15,7 @@ package impacta.exercicios;
  */
 
 
-public class Exercicio1 {
+public class Exercicio_01 {
 
     public static void main(String[] args) {
         int op1 = -5 + 8 * 6;

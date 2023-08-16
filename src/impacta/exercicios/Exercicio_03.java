@@ -17,7 +17,7 @@ package impacta.exercicios;
 
 import java.util.Scanner;
 
-public class Exercicio3 {
+public class Exercicio_03 {
     public static void main(String[] args) {
         Scanner num = new Scanner(System.in);
 
