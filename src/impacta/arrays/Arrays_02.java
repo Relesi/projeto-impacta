@@ -1,4 +1,4 @@
-package impacta.condicionais.arrays;
+package impacta.arrays;
 
 public class Arrays_02 {
     public static void main(String[] args) {
