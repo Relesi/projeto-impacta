@@ -21,9 +21,9 @@ public class PrintTestEstudante2 {
 
         System.out.println("===============================");
 
-        System.out.println(estudante2.idadeProfessor);
-        System.out.println(estudante2.nomeProfessor);
-        System.out.println(estudante2.sexoProfessor);
+        System.out.println("Idade Professor: "+ estudante2.idadeProfessor);
+        System.out.println("Nome: " + estudante2.nomeProfessor);
+        System.out.println("Sexo: " + estudante2.sexoProfessor);
     }
 
 
